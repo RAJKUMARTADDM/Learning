@@ -1,1 +1,2 @@
 welcome to Java project
+learning new technologies
